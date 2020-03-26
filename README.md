@@ -1,5 +1,7 @@
 # Class Inheritance: Pokemon Training
-Course URL: https://www.coursera.org/learn/python-classes-inheritance/
+__Repository description:__
+<br/>
+This repository stores the work as part of Python 3 Specialization courses. Course URL: https://www.coursera.org/learn/python-classes-inheritance/. Code included in this repository is written by myself, Kristen Phan.
 <br/>
 <br/>
 __Assignment Description:__
